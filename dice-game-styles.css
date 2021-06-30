@@ -1,0 +1,19 @@
+.container{
+  text-align: center;
+}
+
+h1{
+
+  text-align: center;
+}
+
+i{
+
+  color: #E93B81;
+}
+
+#status{
+  visibility: hidden;
+  text-align: center;
+
+}
